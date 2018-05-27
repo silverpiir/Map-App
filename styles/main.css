@@ -1,0 +1,26 @@
+.map {
+  height: 70vh;
+  width: auto;
+}
+.custom-container {
+  width: 96vw;
+  margin: 2vh 2vw;
+}
+.btn {
+  margin-bottom: 0.5em;
+}
+#coordinates {
+  padding: 1em 0 0 0;
+  margin: 0 0 1em 0;
+  text-align: center;
+  resize: none;
+  border: none;
+  background-color: #EEE;
+}
+#buttoncontainer {
+  display: flex;
+  justify-content: center;
+}
+#backtotop {
+  width: 60%;
+}
